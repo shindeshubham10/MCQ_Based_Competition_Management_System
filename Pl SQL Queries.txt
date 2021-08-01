@@ -1,0 +1,16 @@
+1.trigger for 
+negative q_ID before update
+
+2.procedure for searching
+
+3.after delete trigger for question or admin
+
+4.before update candidate_id
+or adminID for null or negative value
+
+5.update admin password procedure 
+
+6 trigger for null qualification
+need to make change in table
+
+ 
